@@ -17,7 +17,7 @@ public class GedcomRestoreHeadOptions extends GedcomOptions {
         System.err.println("Restores COPR and SUBM.");
         System.err.println("Options:");
         System.err.println("-g, --gedcom=FILE    GEDCOM file to extract from.");
-        System.err.println("-w, --where=EXPR     Item to copy. For example, '.HEAD.COPR'");
+//        System.err.println("-w, --where=EXPR     Item to copy. For example, '.HEAD.COPR'");
         options();
     }
 
